@@ -4,19 +4,16 @@ The canonical public archive of Aurelite Labs model announcements and launch-cyc
 
 ## Launch Cycle 2025 — everything we announced (recap)
 
-Our keynote recap collects the entire line-up, availability notes and roadmap in one place:
+Our keynote recap collects the entire line-up, availability notes and roadmap in one place,
+including every model shown on stage:
 **[recaps/2025-launch-cycle.md](recaps/2025-launch-cycle.md)**
 
-## Model announcements
+## Announcements
 
-| Model | Type | Announcement |
-| --- | --- | --- |
-| Vireo-4B | Dense decoder | [announcements/vireo-4b.md](announcements/vireo-4b.md) |
-| Sable-13B | Dense decoder | [announcements/sable-13b.md](announcements/sable-13b.md) |
-| Corvus-MoE-8x2B | Sparse mixture-of-experts | [announcements/corvus-moe.md](announcements/corvus-moe.md) |
-| Lumen-2 | Vision-language | [announcements/lumen-2.md](announcements/lumen-2.md) · [model card and serving docs](docs/lumen-2/README.md) |
-| Arden-400M | Compact multilingual | [announcements/arden-400m.md](announcements/arden-400m.md) |
-| Quill-1.5 | Code assistant | [announcements/quill-1p5.md](announcements/quill-1p5.md) |
+Individual announcement pages are archived in the [`announcements/`](announcements/) folder.
+File names are not always identical to the model names, and research previews do not have
+announcement pages of their own. Browse the folder to find the page for a given model; the
+model card for Lumen-2 lives under [`docs/lumen-2/`](docs/lumen-2/).
 
 ## Code repositories
 

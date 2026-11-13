@@ -83,5 +83,5 @@ Apache-2.0 unless explicitly noted otherwise.
 
 Public release set: Vireo-4B, Sable-13B, Corvus-MoE-8x2B, Lumen-2, Arden-400M and
 Quill-1.5. Research previews and roadmap items in the numbered list above are not part
-of the public release set. For per-model details see the dedicated announcement pages
-listed in the press-room index.
+of the public release set. Dedicated announcement pages for the public release set are
+archived in the press room's `announcements/` folder.
