@@ -18,6 +18,18 @@ Our keynote recap collects the entire line-up, availability notes and roadmap in
 | Arden-400M | Compact multilingual | [announcements/arden-400m.md](announcements/arden-400m.md) |
 | Quill-1.5 | Code assistant | [announcements/quill-1p5.md](announcements/quill-1p5.md) |
 
+## Code repositories
+
+The Launch Cycle 2025 repositories published under the Aurelite organisation:
+
+| Repository | Model |
+| --- | --- |
+| `aurelite-code-vireo-4b` | Vireo-4B |
+| `aurelite-code-sable-13b` | Sable-13B |
+| `aurelite-code-corvus-moe` | Corvus-MoE-8x2B |
+| `aurelite-code-lumen-2` | Lumen-2 |
+| `aurelite-code-quill-1p5` | Quill-1.5 |
+
 ## Archive
 
 - Launch Cycle 2024 — index retired, see the keynote recap in `recaps/2024-archive.md.notice`
